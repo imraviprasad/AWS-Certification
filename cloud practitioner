@@ -37,3 +37,25 @@ What is cloud computing ?
 
 - Amazon Web Services owns and maintains the network-connected hardware required for these appliciation services, while you provision and use what you need via web application
 
+The Deployment models of the cloud
+
+- Private Cloud eg: rackspace
+- Public Cloud eg: azure, google cloud, aws
+- Hybride cloud eg: keep some servers on premises and extent some capabilities to cloud
+
+The Five characteristics fo cloud computing
+
+- On-Demand self service:
+ - Users can provision resources and use them without human interaction from the srvice provider
+- Broad network access:
+ - Resources availabel ovee the network and can be accessed by diverse client patform
+- Multi-tenancy adn resource pooling:
+ - Multiple customers can share the same infrastructure and applications with security and privacy
+ - Multiple customers are serviced from the sam ephysical resources
+- Rapid elasticity and scalability:
+ - Automatically and quickly acquire and dispose resources when needed
+ - Quickly and easily scale on demand
+- Measured service:
+ - Usage is measured, users pay correctly for what they have used
+
+
