@@ -27,4 +27,13 @@ Problem with traditional IT approach
 - how to deal with disasters? (earthquakes, power shutdown, fire...)
 - can we externalize all this ?
 
+What is cloud computing ?
+
+- Cloud computing is the on-demond delivery of compute power, data base storage appications and other IT resources
+- Through a cloud service platform with pay-as-you-go pricing
+- you can provision exactly the right type and size of computing resources you need
+- you can access as any resources as you need, almost instantly
+- simple way to access servers, storage, databases and a set of application services
+
+- Amazon Web Services owns and maintains the network-connected hardware required for these appliciation services, while you provision and use what you need via web application
 
