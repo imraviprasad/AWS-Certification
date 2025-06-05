@@ -1,1 +1,19 @@
+section : What is Cloud Computing 
+
+1. How websites work
+A client using network will send request to the server where both will find each other using the ip address.
+
+2. What is a server composed of?
+Compute: CPU
+Memory: RAM
+Storage: DATA(in binary)
+DAtabase: Store data in a structured way
+Network: Routers, Swicth, DNS server
+
+3. IT Terminology
+
+Network: cables, routers adn servers connected with each other
+Router: Anetworking device that forward data packets between computer networks. They know where to send your packets on the internet.
+Switch: Takes a packet and send it to the correct server/client on your network
+
 
