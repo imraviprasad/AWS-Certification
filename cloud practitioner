@@ -16,4 +16,15 @@ Network: cables, routers adn servers connected with each other
 Router: Anetworking device that forward data packets between computer networks. They know where to send your packets on the internet.
 Switch: Takes a packet and send it to the correct server/client on your network
 
+Terminally, How to build infrastructure
+
+Problem with traditional IT approach
+- pay for the rent for the data center
+- pay for power supply, cooling, maintenance
+- adding and replacing hardware takes time
+- scaling is limited
+- hire 24/7 team to monitor the infrastructure
+- how to deal with disasters? (earthquakes, power shutdown, fire...)
+- can we externalize all this ?
+
 
